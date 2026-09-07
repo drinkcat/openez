@@ -1,7 +1,7 @@
 EZ100PU open-source driver
 =========================
 
-***NOT FUNCTIONAL***
+***NOT FUNCTIONAL***, see [ezIFD](https://github.com/drinkcat/ezIFD) instead.
 
 EZ100PU smartcard readers are (still?) very popular in Taiwan, and commonly
 used to read NHI (health insurance) cards to access services (tax payment,
